@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OOPExtendion.iml" filepath="$PROJECT_DIR$/OOPExtendion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPExtension.iml" filepath="$PROJECT_DIR$/OOPExtension.iml" />
     </modules>
   </component>
 </project>
